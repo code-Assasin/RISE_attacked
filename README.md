@@ -1,5 +1,5 @@
 # RISE
-This repository contains source code necessary to reproduce some of the main results in the paper:
+This repository is derieved from Kate Saenko's paper RISE source code (https://github.com/eclique/RISE)necessary to reproduce some of the main results in the paper:
 
 [Vitali Petsiuk](http://cs-people.bu.edu/vpetsiuk/), [Abir Das](http://cs-people.bu.edu/dasabir/), [Kate Saenko](http://ai.bu.edu/ksaenko.html) (BMVC, 2018) <br>
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421)
